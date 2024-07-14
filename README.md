@@ -1,1 +1,1 @@
-# RabbitMq_Concepts
+# rabbitmq-demo
